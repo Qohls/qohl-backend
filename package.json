@@ -1,0 +1,9 @@
+{
+  "name": "qohl-studios-backend",
+  "version": "1.0.0",
+  "description": "Qohl Studios AI chat backend for Shopify",
+  "main": "api/chat.js",
+  "scripts": {
+    "start": "node api/chat.js"
+  }
+}
